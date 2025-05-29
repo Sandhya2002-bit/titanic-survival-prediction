@@ -6,7 +6,7 @@ This project aims to predict passenger survival on the Titanic using classic mac
 
 Using data such as age, gender, ticket class, and fare, we built predictive models to determine whether a passenger survived the Titanic disaster. The project walks through the entire data science pipeline — from cleaning the data to building and evaluating machine learning models.
 
----
+----
 
 ## 📁 Project Structure
 
